@@ -73,4 +73,4 @@
 ```
 3. Write a function that returns the average rating, accounting for duplicates.
 
-4. Write a function that renders the reviews into the DOM. Improvise a design for the display.
+4. Write a function that renders the reviews into the DOM. Improvise a design for the reviews.
